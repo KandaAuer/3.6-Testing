@@ -24,4 +24,7 @@ public class StudentService {
                 new Student(5L, "Neville", 17)
         );
     }
+
+    public Object getAverageAge() {
+    }
 }

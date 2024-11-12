@@ -16,4 +16,10 @@ public class FacultyService {
                 new Faculty(5L, "Durmstrang")
         );
     }
+
+    public Object getFacultyById(int i) {
+    }
+
+    public Object createFaculty(Faculty any) {
+    }
 }
